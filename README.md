@@ -1,3 +1,5 @@
+# ! DEPRECATED !
+
 # Rin
 
 A brilliant Angular 1 & Bootstrap 4 dashboard boilerplate.  It's structure follows [John Papa's Angular Style Guide](https://github.com/johnpapa/angular-styleguide) closely, but has some minor changes.  Sass for styling.
